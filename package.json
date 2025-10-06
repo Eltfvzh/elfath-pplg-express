@@ -12,5 +12,14 @@
   "dependencies": {
     "dotenv": "^17.2.3",
     "express": "^5.1.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eltfvzh/elfath-pplg-express.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Eltfvzh/elfath-pplg-express/issues"
+  },
+  "homepage": "https://github.com/Eltfvzh/elfath-pplg-express#readme"
 }
